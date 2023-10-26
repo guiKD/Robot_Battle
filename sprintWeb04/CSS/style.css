@@ -1,0 +1,35 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(222, 201, 171);
+}
+
+.canvas-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+}
+
+#robos {
+    position: fixed;
+    bottom: 0;
+}
+
+.vida {
+    display: flex;
+}
+
+.progress-bar {
+    background-color: rgb(23, 142, 23) !important;
+}
+
+.instrucoesGame {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    margin-right: 20px;
+}
+
+audio {
+    display: none;
+}
