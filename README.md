@@ -1,6 +1,6 @@
 # Robot_Battle
 <br>
-Trabalho da disciplina de desenvolvimento web que consiste em criar um game sobre batalhas de robôs com determinadas regras
+Jogo desenvolvido em JavaScript que consiste em uma luta de robôs
 <br>
 <br>
 https://mobobattle.netlify.app/
